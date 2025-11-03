@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/spark2/Documents/Unreal Projects/UE5_3DGame/Content/Maps/DevMap.umap"
+			]
+		}
+	]
+}
